@@ -1,0 +1,5 @@
+export const GET_HISTORY = 'getHistory'
+export const GET_RATES = 'getRates'
+export const GET_RATE_BY_SYMBOL = 'getRatesBySymbol'
+export const TOGGLE_CRON_JOB = 'toggleCronJob'
+export const GET_CRON_JOB_STATUS = 'getCronJobStatus'
